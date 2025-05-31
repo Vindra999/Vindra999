@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo dunia👋
 
 <!--
 **Vindra999/Vindra999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
