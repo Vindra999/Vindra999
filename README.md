@@ -1,5 +1,7 @@
-## Halo dunia gua Novindra augustiar👋
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
+## Halo dunia gua Novindra augustiar👋
+
 <!--
 **Vindra999/Vindra999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
