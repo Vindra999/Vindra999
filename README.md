@@ -1,5 +1,5 @@
 ## Halo dunia gua Novindra augustiar👋
-
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 <!--
 **Vindra999/Vindra999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- im just studing 
+- im just only study computer science.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vvindraa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/novindraaugustiarrr) 
